@@ -7,7 +7,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.9.34
+IP 158.160.9.34
 
 Frontend https://mesto.beastoloch.nomoredomainsmonster.ru/
 
